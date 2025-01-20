@@ -1,0 +1,172 @@
+{
+    "274510599": {
+        "product_data": {
+            "id": "274510599",
+            "title": "Tesco 0% Fat Greek Style Yogurt 500G",
+            "description": [
+                "Fat free Greek style natural yogurt."
+            ],
+            "bulkBuyLimit": 16,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 1.2,
+                "unitPrice": 0.24,
+                "unitOfMeasure": "100g"
+            }
+        },
+        "promotion_data": null
+    },
+    "292225110": {
+        "product_data": {
+            "id": "292225110",
+            "title": "Suntrail Farms Price Orange Minimum 5 Pack",
+            "description": [
+                "Oranges."
+            ],
+            "bulkBuyLimit": 16,
+            "status": "ExcludedProduct",
+            "price": {
+                "actual": 0.99,
+                "unitPrice": 0.2,
+                "unitOfMeasure": "each"
+            }
+        },
+        "promotion_data": null
+    },
+    "256651384": {
+        "product_data": {
+            "id": "256651384",
+            "title": "Tesco Asparagus Tips 125G",
+            "description": [
+                "Asparagus"
+            ],
+            "bulkBuyLimit": 16,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 2,
+                "unitPrice": 16,
+                "unitOfMeasure": "kg"
+            }
+        },
+        "promotion_data": null
+    },
+    "312704710": {
+        "product_data": {
+            "id": "312704710",
+            "title": "Tesco Iceberg Lettuce 200G",
+            "description": [
+                "Cut iceberg lettuce leaves."
+            ],
+            "bulkBuyLimit": 25,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 0.7,
+                "unitPrice": 0.35,
+                "unitOfMeasure": "100g"
+            }
+        },
+        "promotion_data": null
+    },
+    "312352060": {
+        "product_data": {
+            "id": "312352060",
+            "title": "Tesco Butterhead Salad 80G",
+            "description": [
+                "Green and red butterhead lettuce with baby spinach."
+            ],
+            "bulkBuyLimit": 25,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 1,
+                "unitPrice": 1.25,
+                "unitOfMeasure": "100g"
+            }
+        },
+        "promotion_data": null
+    },
+    "299389237": {
+        "product_data": {
+            "id": "299389237",
+            "title": "Tesco Tenderstem Broccoli Spears 330G",
+            "description": [
+                "Tenderstem broccoli."
+            ],
+            "bulkBuyLimit": 16,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 2.4,
+                "unitPrice": 7.27,
+                "unitOfMeasure": "kg"
+            }
+        },
+        "promotion_data": null
+    },
+    "304412981": {
+        "product_data": {
+            "id": "304412981",
+            "title": "Tesco Sweet & Crunchy Salad 250G",
+            "description": [
+                "A mix of iceberg lettuce, red cabbage and carrot."
+            ],
+            "bulkBuyLimit": 16,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 0.78,
+                "unitPrice": 0.31,
+                "unitOfMeasure": "100g"
+            }
+        },
+        "promotion_data": null
+    },
+    "263772662": {
+        "product_data": {
+            "id": "263772662",
+            "title": "Tesco British Creme Fraiche 300Ml",
+            "description": [
+                "Pasteurised cultured dairy cream."
+            ],
+            "bulkBuyLimit": 25,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 0.85,
+                "unitPrice": 0.28,
+                "unitOfMeasure": "100ml"
+            }
+        },
+        "promotion_data": null
+    },
+    "261879050": {
+        "product_data": {
+            "id": "261879050",
+            "title": "Tesco British Pork Sausages 8 Pack 454G",
+            "description": [
+                "Pork sausages."
+            ],
+            "bulkBuyLimit": 25,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 1.79,
+                "unitPrice": 3.94,
+                "unitOfMeasure": "kg"
+            }
+        },
+        "promotion_data": null
+    },
+    "259336315": {
+        "product_data": {
+            "id": "259336315",
+            "title": "Tesco Pineapple Juice 1 Litre",
+            "description": [
+                "Pineapple juice from concentrate."
+            ],
+            "bulkBuyLimit": 16,
+            "status": "AvailableForSale",
+            "price": {
+                "actual": 1.35,
+                "unitPrice": 0.14,
+                "unitOfMeasure": "100ml"
+            }
+        },
+        "promotion_data": null
+    }
+}
